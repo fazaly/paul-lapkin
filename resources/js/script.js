@@ -9,7 +9,7 @@ $(function() {
     section : ".scrollify",
     setHeights: false,
     updateHash: false,
-    scrollSpeed: 1100,
+    scrollSpeed: false,
   });
 });
 
